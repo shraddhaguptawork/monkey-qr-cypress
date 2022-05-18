@@ -1,7 +1,7 @@
 //  const { should } = require("chai")
 const path = require('path')
 context('', () => {
-    describe('Smoke to cover QR code validation',()=>{
+    describe('Smoke to cover QR code validation : Positive scenarios',()=>{
 
         it('should create and download QR code with URL as content type',()=> {
             cy.intercept('POST', 'https://api.qrcode-monkey.com//qr/custom')
