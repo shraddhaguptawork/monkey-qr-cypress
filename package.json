@@ -1,0 +1,32 @@
+{
+  "name": "monkey-qr-cypress",
+  "version": "1.0.0",
+  "description": "Smoke tests suite for QR Code generator using cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shraddhaguptawork/cypress_automation.git"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "automation"
+  ],
+  "author": "Shraddha Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shraddhaguptawork/cypress_automation/issues"
+  },
+  "homepage": "https://github.com/shraddhaguptawork/cypress_automation#readme",
+  "dependencies": {
+    "cypress": "^9.6.1",
+    "cypress-downloadfile": "^1.2.2"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8"
+  }
+}
