@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/shraddhaguptawork/cypress_automation#readme",
   "dependencies": {
+    "@nuintun/qrcode": "^3.3.0",
     "cypress": "^9.6.1",
     "cypress-downloadfile": "^1.2.2"
   },
