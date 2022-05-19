@@ -1,6 +1,6 @@
 README
 
-    Created smoke testcases to cover teh bais funtionlity of QR Code Monkey website using Cypress tool. Covered 5 postive test and 2 negative test sceanios.
+    Created smoke testcases to cover the basic funtionlity of QR Code Monkey website using Cypress tool. Covered 5 postive test and 2 negative test sceanios.
 
 WEBSITE
 
@@ -14,8 +14,8 @@ GIT
 
 COMMANDS
 
-    To run all the test: npm run cy:run
-    To open cypress: npm run cy:open
+    To run all the test- npm run cy:run
+    To open cypress- npm run cy:open
 
 TESTCASES DESC
 
